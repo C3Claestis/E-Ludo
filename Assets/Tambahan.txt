@@ -1,0 +1,4 @@
+1. Tambahin Nama Player sama pilih bagian rumah
+2. Dibawah Dadu ada UI siapa yang jalan
+3. Nambahin BGM sama Sound Effect
+4. Ganti design
